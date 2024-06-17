@@ -1,0 +1,15 @@
+.textoamarillo {
+    color:rgb(225, 244, 11);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+}
+
+.titularescolor {
+    color:rgb(0, 0, 228);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+}
+
+.titularestamano {
+    font-size: xx-small;
+}
